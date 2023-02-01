@@ -6,4 +6,16 @@
     - x second text italic
     - x fix right margin
 - x add CSS help link
-- .. space in between tips
+- x space in between tips
+- x use javascript on page
+    - x create flashcard button
+    - x show button: "Wofür steht HTML?"
+    - x make answer hidden on load
+    - x when clicked, show answer: "Hypertext Markup Language"
+        - x do javascript text
+        - x show test text when button clicked
+            - x make button a variable and add event handler
+        - x make answer div a variable
+        - x make answer show when clicked
+        - x toggle answer when clicked
+- x style flashcard area
