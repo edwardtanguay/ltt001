@@ -5,4 +5,5 @@
     - x font larger
     - x second text italic
     - x fix right margin
-- .. add CSS help link
+- x add CSS help link
+- .. space in between tips
